@@ -4,7 +4,7 @@ I am a software engineer at [Ahmad Dahlan University](https://uad.ac.id/), where
 
 
 
-- 🌐 Visit my [portfolio website]( akbarzaqi.github.io/personal-site/ ) for more information and to get in touch.
+- 🌐 Visit my [portfolio website]([https://akbarzaqi.github.io/personal-site/]) for more information and to get in touch.
 - ✍️ Follow me on [Instagram](https://www.instagram.com/akbarrzaqii_/) for more written content.
 
 ---
