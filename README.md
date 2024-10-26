@@ -1,13 +1,17 @@
 
-###
+# Hi 👋 I am Akbar Zaqi! 
+I am a software engineer at [Ahmad Dahlan University](https://uad.ac.id/), where I studied various things in the field of Informatics, including programming, algorithms, artificial intelligence, cyber security, and software development.
 
-<div align="center">
- <a href="https://www.instagram.com/akbarrzaqii_/" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge"  height="25" alt="instagram logo"  /></a>
- <a href="//mail.google.com/mail/u/0/?view=cm&tf=1&fs=1&to=zakiakbar143@gmail.com"  target="_blank" ><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  /></a>
-</div>
 
-###
 
-<img src="https://raw.githubusercontent.com/dansecret/dansecret/output/snake.svg" alt="Snake animation" />
+- 🌐 Visit my [portfolio website]( akbarzaqi.github.io/personal-site/ ) for more information and to get in touch.
+- ✍️ Follow me on [Instagram](https://www.instagram.com/akbarrzaqii_/) for more written content.
 
-###
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pr2tik1&show_icons=true&theme=bear" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=pr2tik1&theme=dark&hide_border=true" width="400">
+</p>
+
+---
