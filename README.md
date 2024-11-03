@@ -1,6 +1,6 @@
 
 # Hi 👋 I am Akbar Zaqi! 
-I am a software engineer at [Ahmad Dahlan University](https://uad.ac.id/), where I studied various things in the field of Informatics, including programming, algorithms, artificial intelligence, cyber security, and software development.
+I am a student at [Ahmad Dahlan University](https://uad.ac.id/), where I studied various things in the field of Informatics, including programming, algorithms, artificial intelligence, cyber security, and software development.
 
 
 
