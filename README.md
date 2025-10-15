@@ -5,7 +5,7 @@ I am a student at [Ahmad Dahlan University](https://uad.ac.id/), where I studied
 
 
 - 🌐 Visit my [portfolio website](https://akbarzaqi.github.io/personal-site/) for more information and to get in touch.
-- ✍️ Follow me on [Instagram](https://www.instagram.com/akbarrzaqii_/) for more written content.
+- ✍️ Follow me on [Instagram](https://www.instagram.com/akbarzaqii_/) for more written content.
 - 🌐 Lets connect me on [Linkedin](https://www.linkedin.com/in/akbarzaqi/) for more about me.
 
 ---
