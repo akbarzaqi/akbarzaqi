@@ -1,6 +1,6 @@
 
 # Hi 👋 I am Akbar Zaqi! 
-I am a student at [Ahmad Dahlan University](https://uad.ac.id/), where I studied various things in the field of Informatics, including programming, algorithms, artificial intelligence, cyber security, and software development.
+I am a student at [Universitas Ahmad Dahlan](https://uad.ac.id) with interests in software development, especially web development and machine learning. I have experience with Linux, C++, JavaScript, PHP, Python, ROS, and various computer vision, deep learning, and machine learning frameworks.
 
 
 
